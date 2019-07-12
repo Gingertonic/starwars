@@ -1,1 +1,5 @@
-Here is my readme! Yes it is!
+# Awesome Star Wars App
+
+## Instructions
+
+Run `ruby red_one.rb` and stand by!
